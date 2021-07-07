@@ -1,4 +1,4 @@
-##Director Unpacker
+## Director Unpacker
 
 Unpacker and hopefully re-packer for Adobe Director 12 .dir projects, written in python. *Currently a WIP* due to how cursed the file format is...
 
@@ -15,3 +15,4 @@ myDotDir.dir would become:
     - mycast
         - myscript.ls
 
+... for version control and collaboration, and then the same file structure would be re-packed into a .dir project for usage.
